@@ -1,5 +1,5 @@
 ```
-const ann = {
+const ANN = {
       pronouns: "she" | "her",
       code: [PHP, Java],
       brand_languages: [HTML, CSS, JavaScript]

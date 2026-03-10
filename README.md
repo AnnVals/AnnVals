@@ -10,7 +10,7 @@ const ANN = {
   currently_working: false,
   open_source:       true,
   also_a:            "digital illustrator → @ValsArtJPG",
-  challenge:         "finishing a game I don't like for the 454534th time 🎮",
+  guilty_pleasure:   "finishing a game I like for the 454534th time 🎮",
 }
 ```
 

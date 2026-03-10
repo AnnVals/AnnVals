@@ -9,8 +9,8 @@ const ANN = {
   design:            ["Figma", "Photoshop", "Illustrator", "Clip Studio", "Procreate"],
   currently_working: false,
   open_source:       true,
-  also_a:            "digital illustrator → @ValsArtJPG",
-  guilty_pleasure:   "finishing a game I like for the 454534th time 🎮",
+  also_a:            "digital illustrator → IG @ValsArt.jpg",
+  guilty_pleasure:   "reading visual novels and crying for the protagonist 🎮",
 }
 ```
 
